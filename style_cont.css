@@ -1,0 +1,166 @@
+body{
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
+/* .page{
+    margin: 20px auto;
+    width: 1020px;
+} */
+
+.header{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    margin: 10px auto;
+    width: 1020px;
+    padding: 5px;
+    
+
+}
+
+ul.link{
+    margin: 25px 5px 10px 0px;
+    padding: right; 
+    text-align: justify;
+}
+
+ul.link li{
+    display: inline-block;
+    margin-left: 7px;
+    padding: 3px;
+}
+
+.menu{
+    text-decoration: none;
+    padding: 0 10px;
+    float:right;    
+}
+
+a{
+    text-decoration: none;
+    color: #6C6C6C;
+}
+
+a:hover{
+    border-bottom: 2px solid #D51B48;
+    color:#D51B48;
+    background-color: #fff;
+}
+
+.link_right{
+    display: inline;
+    margin-left: 5px;
+    text-align: justify;
+}
+
+.headings{
+    font-family: 'Archivo Black', sans-serif;;
+    font-size: 50px;
+    width: 300px;
+    border-bottom: 5px solid #D51B48;
+    
+}
+
+.symbol1{
+    position: absolute;
+    width: 450px;
+    height: 280px;
+    top: 180px; 
+    left: 450px;
+}
+
+.symbol2{
+    position: absolute;
+    width: 450px;
+    height: 280px;
+    top: 180px; 
+    left: 800px;
+}
+
+.symbol3{
+    position: absolute;
+    width: 450px;
+    height: 280px;
+    top: 180px; 
+    left: 1150px;
+}
+
+.address{
+    position: absolute;
+    width: 180px;
+    height: 280px;
+    top: 160px; 
+    left: 530px;
+    font-size: large;
+    line-height: 1.5;
+}
+
+.phone{
+    position: absolute;
+    width: 180px;
+    height: 280px;
+    top: 160px; 
+    left: 900px;
+    font-size: large;
+    line-height: 1.5;
+}
+
+.mail{
+    position: absolute;
+    width: 180px;
+    height: 280px;
+    top: 160px; 
+    left: 1250px;
+    font-size: large;
+    line-height: 1.5;
+}
+
+iframe{
+    position: absolute;
+    width: 1000px;
+    height: 560px;
+    top: 320px; 
+    left: 450px;
+    margin: 20px auto;
+}
+footer{
+    position:absolute;
+    width: 100%;
+    height: 180px;
+    top: 1000px; 
+    left: 0px; 
+
+    margin: 10px auto;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+
+    background: #444244;
+    color: #fff;
+}
+
+.footer_logo{
+    margin: 10px auto;
+    width: 1150px;
+}
+
+.foot_txt{
+    width: 280px;
+    font-size: small;
+    margin: 0;
+}
+
+.contact{
+    width: 280px;
+    float: right;
+
+    position:absolute;
+    height: 180px;
+    top: 10px; 
+    left: 1330px; 
+
+}
+.flink{
+    margin-right: 10px;
+}
